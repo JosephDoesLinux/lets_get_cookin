@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Hummus",
+    "imageUrl": "https://placehold.co/600x400/C8A882/ffffff?text=Hummus",
+    "ingredients": ["Hummus", "Lemon", "Olive Oil", "Garlic", "Paprika"]
+  },
+  {
+    "title": "Fattoush Salad",
+    "imageUrl": "https://placehold.co/600x400/90EE90/000000?text=Fattoush",
+    "ingredients": ["Tomato", "Cucumber", "Onion", "Parsley", "Lemon", "Olive Oil", "Bread"]
+  },
+  {
+    "title": "Tabbouleh",
+    "imageUrl": "https://placehold.co/600x400/A8D5BA/000000?text=Tabbouleh",
+    "ingredients": ["Bulgur", "Parsley", "Tomato", "Onion", "Lemon", "Olive Oil", "Mint"]
+  },
+  {
+    "title": "Kebab (Lamb)",
+    "imageUrl": "https://placehold.co/600x400/D2B48C/ffffff?text=Lamb+Kebab",
+    "ingredients": ["Lamb", "Onion", "Garlic", "Cumin", "Sumac", "Bread"]
+  },
+  {
+    "title": "Shawarma (Chicken)",
+    "imageUrl": "https://placehold.co/600x400/E8B4B8/000000?text=Chicken+Shawarma",
+    "ingredients": ["Chicken", "Yogurt", "Garlic", "Lemon", "Cumin", "Paprika", "Bread"]
+  },
+  {
+    "title": "Baba Ganoush",
+    "imageUrl": "https://placehold.co/600x400/8B7D6B/ffffff?text=Baba+Ganoush",
+    "ingredients": ["Eggplant", "Tahini", "Lemon", "Garlic", "Olive Oil"]
+  },
+  {
+    "title": "Moussaka",
+    "imageUrl": "https://placehold.co/600x400/A0522D/ffffff?text=Moussaka",
+    "ingredients": ["Eggplant", "Lamb", "Tomato", "Onion", "Garlic", "Yogurt"]
+  },
+  {
+    "title": "Falafel",
+    "imageUrl": "https://placehold.co/600x400/D2B48C/000000?text=Falafel",
+    "ingredients": ["Chickpeas", "Parsley", "Onion", "Garlic", "Cumin", "Bread"]
+  },
+  {
+    "title": "Kibbeh",
+    "imageUrl": "https://placehold.co/600x400/CD853F/ffffff?text=Kibbeh",
+    "ingredients": ["Bulgur", "Lamb", "Onion", "Cumin", "Mint"]
+  },
+  {
+    "title": "Fish Grilled with Lemon",
+    "imageUrl": "https://placehold.co/600x400/B0E0E6/000000?text=Grilled+Fish",
+    "ingredients": ["Fish", "Lemon", "Garlic", "Olive Oil", "Parsley"]
+  },
+  {
+    "title": "Chicken Shawarma Wrap",
+    "imageUrl": "https://placehold.co/600x400/F4A460/000000?text=Shawarma+Wrap",
+    "ingredients": ["Chicken", "Bread", "Tomato", "Onion", "Yogurt", "Garlic"]
+  },
+  {
+    "title": "Rice Pilaf with Vegetables",
+    "imageUrl": "https://placehold.co/600x400/DAA520/000000?text=Rice+Pilaf",
+    "ingredients": ["Rice", "Onion", "Bell Pepper", "Tomato", "Cumin", "Olive Oil"]
+  },
+  {
+    "title": "Grilled Zucchini with Yogurt",
+    "imageUrl": "https://placehold.co/600x400/98D98E/000000?text=Grilled+Zucchini",
+    "ingredients": ["Zucchini", "Yogurt", "Garlic", "Mint", "Olive Oil"]
+  },
+  {
+    "title": "Stuffed Bell Peppers",
+    "imageUrl": "https://placehold.co/600x400/FF6347/ffffff?text=Stuffed+Peppers",
+    "ingredients": ["Bell Pepper", "Rice", "Lamb", "Onion", "Tomato", "Cumin"]
+  },
+  {
+    "title": "Muhammara (Red Pepper Dip)",
+    "imageUrl": "https://placehold.co/600x400/DC143C/ffffff?text=Muhammara",
+    "ingredients": ["Bell Pepper", "Bread", "Walnuts", "Lemon", "Pomegranate", "Olive Oil"]
+  }
+]
